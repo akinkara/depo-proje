@@ -1,0 +1,2 @@
+environment.ts, environment.prod.ts, app.module.ts dosyalarý içerisindeki gerekli boþ yerlere
+ firebase proje anasayfasýnda verilen proje baðlantýsý için kullanýlan kiþisel bilgilerinizi girerek baðlantý saðlayabilirsiniz.
